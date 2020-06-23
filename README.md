@@ -1,0 +1,2 @@
+# gaming-afk
+Auto boyah
